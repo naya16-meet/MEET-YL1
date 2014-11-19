@@ -1,1 +1,5 @@
-print ("Naya")
+def printMyName(x):
+    print x
+
+printMyName("Naya")    
+
